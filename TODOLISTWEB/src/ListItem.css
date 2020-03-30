@@ -1,0 +1,39 @@
+.done-item{
+    background-color:transparent;
+    width:1000px;
+    height:40px;
+    border:none;
+    color: gray;
+    cursor: pointer;
+    text-align: center;
+    font-size: 25px;
+    box-shadow: 0 8px 16px 0 rgba(75, 95, 81, 0.2), 0 6px 20px 0 rgba(233, 186, 186, 0.19);
+
+}
+.item{
+    background-color:transparent;
+    border:none;
+    width:1000px;
+    height:40px;
+    color:black;
+    cursor: pointer;
+    text-align: center;
+    font-size: 25px;
+    box-shadow: 0 8px 16px 0 rgba(75, 95, 81, 0.2), 0 6px 20px 0 rgba(233, 186, 186, 0.19);
+}
+
+button[disabled] {
+    cursor: not-allowed;
+}  
+
+.head{
+    background-color: rgba(165, 247, 232, 0.349);
+    height: 180px;
+    font-size: 80px;
+    line-height: 180px;
+    text-align: center;
+    margin: 0px;
+    
+}
+
+
